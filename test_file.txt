@@ -1,0 +1,1 @@
+This file is here to test If git is set up properly on my MacBook and If the git Workflow is "flowing" properly. It has nothing directly to do with the project, I just had some issues with the Git workflow in tha past projects. Nothing to do with git or GitHub, just with me. 
